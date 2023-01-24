@@ -1,5 +1,4 @@
 #Problem Statement ----
-#ABHA MARATHE2:27 PM
 #Classifier Performance
 #Apply KNN to the Smarket data set of ISLR package. Split the data into training and testing samples. Scale the data and find the following
 #1.	Accuracy
