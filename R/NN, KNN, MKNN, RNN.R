@@ -1,4 +1,3 @@
-#ABHA MARATHE1:04 PM
 #Consider 18 points data set referred in theory class. 
 #Consider two test samples 1. P1(3,2) and P2(4.2,1.8). 
 #Apply following algorithms to find the class of these test points.
