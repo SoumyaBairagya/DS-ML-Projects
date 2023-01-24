@@ -1,4 +1,3 @@
-#ABHA MARATHE1:13 PM
 #Suppose the manufacturer claims that the mean lifetime of a ball bearing is 10000hours.
 #The auditing team stated that the mean lifetime is less than what is claimed.
 #On the basis of a randomly chosen sample of 50 ball bearings as given in the dataset, at 0.05 significance level, can we reject the claim of the manufacturer?
